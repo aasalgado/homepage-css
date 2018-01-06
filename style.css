@@ -6,6 +6,10 @@
 	text-decoration: none;
 }
 
+/* img {
+    max-height: 500px;
+} */
+
 body {
     text-align: center;
 
@@ -132,3 +136,4 @@ header {
 		left: 0%;
 	}
 }
+
