@@ -25,13 +25,13 @@ header {
     position: fixed;
     top: 100px;
     margin-left: 10%;
-    background: #707070
+    background: white;
 }
 
 #content {
     width: 100%;
     position: relative;
-    top: 400px;
+    top: 480px;
     background: #ebebeb;
     height: 1500px;
 }
@@ -48,9 +48,11 @@ header {
 }
 
 .slider figure img{
-    width: 100%;
+    max-width: 100%;
     max-height: 500px;
-	float: left;
+    /* float: left; */
+    display:block;
+    margin:auto;
 }
 
 .slider figure{
