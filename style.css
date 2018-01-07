@@ -241,9 +241,9 @@ body, ul, li {
     border-top:none;
      
     /* Gradient background */
-    background:#F4F4F4;
-    background: -moz-linear-gradient(top, #EEEEEE, #BBBBBB);
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EEEEEE), to(#BBBBBB));
+    background:#FFFFFF;
+    background: -moz-linear-gradient(top, #EEEEEE, rgb(202, 202, 202));
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(255, 255, 255)), to(rgb(202, 202, 202)));
  
     /* Rounded Corners */
     -moz-border-radius: 0px 5px 5px 5px;
